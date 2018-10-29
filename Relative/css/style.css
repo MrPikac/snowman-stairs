@@ -7,8 +7,49 @@ body {
 	width: 600px;
 	border: 1px solid black;
 	margin: 0 auto;
+	position: relative;
 }
 
 .box .snowman {
 	font-size: 40px;
+}
+
+.one {
+	position: relative;
+	border-top: 1px solid black;
+	border-right: 1px solid black;
+	width: 50px;
+	height: 50px;
+}
+.two {
+	position: relative;
+	border-top: 1px solid black;
+	border-right: 1px solid black;
+	width: 50px;
+	height: 50px;
+	left: 50px;
+}
+.three {
+	position: relative;
+	border-top: 1px solid black;
+	border-right: 1px solid black;
+	width: 50px;
+	height: 50px;
+	left: 100px;
+}
+.four {
+	position: relative;
+	border-top: 1px solid black;
+	border-right: 1px solid black;
+	width: 50px;
+	height: 50px;
+	left: 150px;
+}
+.five {
+	position: relative;
+	border-top: 1px solid black;
+	border-right: 1px solid black;
+	width: 50px;
+	height: 43px;
+	left: 200px;
 }
